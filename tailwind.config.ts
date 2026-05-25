@@ -9,6 +9,14 @@ const config: Config = {
     "./sections/**/*.{js,ts,jsx,tsx,mdx}",
   ],
   theme: {
+    screens: {
+      xs:  "480px",   // custom — used for 2-col grids on large phones
+      sm:  "640px",
+      md:  "768px",
+      lg:  "1024px",
+      xl:  "1280px",
+      "2xl": "1536px",
+    },
     extend: {
       colors: {
         // Kawaii Pink Palette
