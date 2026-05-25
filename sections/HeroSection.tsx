@@ -289,7 +289,7 @@ export default function HeroSection() {
                   xl:text-6xl"
               >
                 <span className="text-gray-800">Hi, I&apos;m </span>
-                <span className="text-gradient-kawaii">Pinky Dev</span>
+                <span className="text-gradient-kawaii">ihoneymoon Dev</span>
                 <motion.span
                   animate={{ rotate: [0, 20, -10, 20, 0] }}
                   transition={{ duration: 2, repeat: Infinity, repeatDelay: 1.5 }}
@@ -395,7 +395,7 @@ export default function HeroSection() {
                   { Icon: Github,   href: "https://github.com",               label: "GitHub",   hov: "hover:bg-gray-100  hover:text-gray-700"  },
                   { Icon: Linkedin, href: "https://linkedin.com",              label: "LinkedIn", hov: "hover:bg-blue-50   hover:text-blue-600"  },
                   { Icon: Twitter,  href: "https://twitter.com",               label: "Twitter",  hov: "hover:bg-sky-50    hover:text-sky-500"   },
-                  { Icon: Mail,     href: "mailto:hello@pinkydev.com",         label: "Email",    hov: "hover:bg-pink-50   hover:text-pink-500"  },
+                  { Icon: Mail,     href: "mailto:hello@ihoneymoondev.com",         label: "Email",    hov: "hover:bg-pink-50   hover:text-pink-500"  },
                 ].map(({ Icon, href, label, hov }) => (
                   <motion.a
                     key={href}

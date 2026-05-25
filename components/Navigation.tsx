@@ -72,7 +72,7 @@ export default function Navigation() {
                 <Sparkles className="w-4 h-4 text-white" />
               </div>
               <span className="font-black text-lg text-gradient-kawaii">
-                pinky.dev
+                ihoneymoon.dev
               </span>
             </motion.a>
 

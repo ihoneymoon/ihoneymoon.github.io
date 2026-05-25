@@ -108,7 +108,7 @@ export default function AboutSection() {
                   />
                 </div>
                 <div>
-                  <h3 className="text-lg sm:text-xl font-black text-gray-800">Pinky Dev 🌸</h3>
+                  <h3 className="text-lg sm:text-xl font-black text-gray-800">Ihoneymoon Dev 🌸</h3>
                   <p className="text-pink-500 font-semibold text-sm">Software Engineer</p>
                   <div className="flex items-center gap-1 mt-1">
                     <div className="w-2 h-2 bg-green-400 rounded-full animate-pulse" />

@@ -33,7 +33,7 @@ const SOCIAL = [
   { icon: Github,   href: "https://github.com",         label: "GitHub"   },
   { icon: Linkedin, href: "https://linkedin.com",        label: "LinkedIn" },
   { icon: Twitter,  href: "https://twitter.com",         label: "Twitter"  },
-  { icon: Mail,     href: "mailto:hello@pinkydev.com",   label: "Email"    },
+  { icon: Mail,     href: "mailto:hello@Ihoneymoondev.com",   label: "Email"    },
 ];
 
 export default function Footer() {
@@ -75,7 +75,7 @@ export default function Footer() {
               <div className="w-9 h-9 sm:w-10 sm:h-10 rounded-full bg-gradient-to-br from-pink-300 to-purple-400 flex items-center justify-center shadow-kawaii">
                 <Sparkles className="w-4 h-4 sm:w-5 sm:h-5 text-white" />
               </div>
-              <span className="font-black text-xl sm:text-2xl text-gradient-kawaii">pinky.dev</span>
+              <span className="font-black text-xl sm:text-2xl text-gradient-kawaii">Ihoneymoon.dev</span>
             </div>
             <p className="text-gray-500 text-xs sm:text-sm font-medium leading-relaxed max-w-xs">
               Building cute things that solve real problems. Passionate about beautiful interfaces and clean code. 🌸
@@ -111,8 +111,8 @@ export default function Footer() {
           <div>
             <h4 className="font-black text-gray-700 mb-3 sm:mb-4 text-sm sm:text-base">Connect</h4>
             <div className="space-y-2 mb-4 sm:mb-5">
-              <a href="mailto:hello@pinkydev.com" className="block text-xs sm:text-sm text-gray-400 font-medium hover:text-pink-500 transition-colors">
-                📧 hello@pinkydev.com
+              <a href="mailto:hello@Ihoneymoondev.com" className="block text-xs sm:text-sm text-gray-400 font-medium hover:text-pink-500 transition-colors">
+                📧 hello@Ihoneymoondev.com
               </a>
               <div className="text-xs sm:text-sm text-gray-400 font-medium">🌍 Remote · Worldwide</div>
             </div>
@@ -146,7 +146,7 @@ export default function Footer() {
               <Heart className="w-3.5 h-3.5 text-pink-400 fill-pink-400" />
             </motion.span>
             <span>by</span>
-            <span className="text-gradient-kawaii font-black">Pinky Dev</span>
+            <span className="text-gradient-kawaii font-black">Ihoneymoon Dev</span>
             <span>· {new Date().getFullYear()}</span>
           </div>
 

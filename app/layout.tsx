@@ -10,8 +10,8 @@ const nunito = Nunito({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://pinkydev.github.io"),
-  title: "Pinky Dev | Software Engineer & Frontend Developer",
+  metadataBase: new URL("https://ihoneymoon.github.io"),
+  title: "Ihoneymoon | Software Engineer & Frontend Developer",
   description:
     "Hi! I'm a Software Engineer who builds cute things that solve real problems. Specializing in React, Next.js, TypeScript, and AI-powered applications.",
   keywords: [
@@ -25,27 +25,27 @@ export const metadata: Metadata = {
     "portfolio",
     "web developer",
   ],
-  authors: [{ name: "Pinky Dev" }],
-  creator: "Pinky Dev",
+  authors: [{ name: "Ihoneymoon" }],
+  creator: "Ihoneymoon",
   openGraph: {
     type: "website",
     locale: "en_US",
-    url: "https://pinkydev.github.io",
-    title: "Pinky Dev | Software Engineer",
+    url: "https://ihoneymoon.github.io",
+    title: "Ihoneymoon | Software Engineer",
     description: "I build cute things that solve real problems. 🌸",
-    siteName: "Pinky Dev Portfolio",
+    siteName: "Ihoneymoon Portfolio",
     images: [
       {
         url: "/og-image.png",
         width: 1200,
         height: 630,
-        alt: "Pinky Dev Portfolio",
+        alt: "Ihoneymoon Portfolio",
       },
     ],
   },
   twitter: {
     card: "summary_large_image",
-    title: "Pinky Dev | Software Engineer",
+    title: "Ihoneymoon | Software Engineer",
     description: "I build cute things that solve real problems. 🌸",
     images: ["/og-image.png"],
     creator: "@pinkydev",

@@ -10,7 +10,7 @@ import {
 
 const SOCIAL_LINKS = [
   {
-    name: "GitHub",    handle: "@pinkydev",           href: "https://github.com",
+    name: "GitHub",    handle: "@ihoneymoon",           href: "https://github.com",
     icon: Github,   color: "from-gray-200 to-gray-300",  textColor: "text-gray-700",
     glow: "rgba(100,100,100,.3)", desc: "See my code 💻",
   },
@@ -20,12 +20,12 @@ const SOCIAL_LINKS = [
     glow: "rgba(59,130,246,.35)", desc: "Connect with me 🤝",
   },
   {
-    name: "Twitter / X", handle: "@pinkydev_",         href: "https://twitter.com",
+    name: "Twitter / X", handle: "@ihoneymoon_",         href: "https://twitter.com",
     icon: Twitter,  color: "from-sky-200 to-sky-300",    textColor: "text-sky-700",
     glow: "rgba(14,165,233,.35)", desc: "My tech thoughts 💭",
   },
   {
-    name: "Email",     handle: "hello@pinkydev.com",   href: "mailto:hello@pinkydev.com",
+    name: "Email",     handle: "hello@ihoneymoon.com",   href: "mailto:hello@ihoneymoon.com",
     icon: Mail,     color: "from-pink-200 to-rose-300",  textColor: "text-pink-700",
     glow: "rgba(244,114,182,.35)", desc: "Send me a message 📩",
   },
